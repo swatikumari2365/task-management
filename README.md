@@ -8,9 +8,13 @@ A Task Management Application built with Angular for the frontend and Spring Boo
 ## Features
 
 -Task Creation: Users can create new tasks by providing details such as title, type,due date and description.
+
 -Task Viewing: Users can view a list of all their tasks.
+
 -Task Details: Users can view detailed information about a specific task, including the task description, due date and type.
+
 -Task Editing: Users can update the details of an existing task.
+
 -Task Deletion: Users can delete tasks that are no longer needed.
 
 ## Technologies Used
